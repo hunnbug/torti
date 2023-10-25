@@ -1,0 +1,14 @@
+H:\CODING\mocha\c#\Torti\Torti\bin\Debug\net6.0\Torti.exe
+H:\CODING\mocha\c#\Torti\Torti\bin\Debug\net6.0\Torti.deps.json
+H:\CODING\mocha\c#\Torti\Torti\bin\Debug\net6.0\Torti.runtimeconfig.json
+H:\CODING\mocha\c#\Torti\Torti\bin\Debug\net6.0\Torti.dll
+H:\CODING\mocha\c#\Torti\Torti\bin\Debug\net6.0\Torti.pdb
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.AssemblyInfoInputs.cache
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.AssemblyInfo.cs
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.csproj.CoreCompileInputs.cache
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.dll
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\refint\Torti.dll
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.pdb
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\Torti.genruntimeconfig.cache
+H:\CODING\mocha\c#\Torti\Torti\obj\Debug\net6.0\ref\Torti.dll
