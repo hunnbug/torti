@@ -13,7 +13,6 @@ namespace Torti
         {
             int pos = 1;
             ConsoleKeyInfo key;
-            int esc = 0;
             do
             {
                 Console.SetCursorPosition(0, pos);
@@ -33,8 +32,7 @@ namespace Torti
                 }
                 if(key.Key == ConsoleKey.Escape)
                 {
-                    esc = 1;
-                    return esc;
+                    Menu.punktitorta();
                 }
             } while (key.Key != ConsoleKey.Enter);
             return pos;

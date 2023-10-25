@@ -15,5 +15,6 @@ namespace Torti
         public static string? kolvo;
         public static string? glazur;
         public static string? dekor;
+
     }
 }
